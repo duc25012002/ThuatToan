@@ -1,0 +1,4 @@
+- Ý tưởng quick sort.
+B1. Chọn phần tử ở giữa làm phần tử gốc.
+B2. Phân bố lại mảng theo khóa ( < khóa, > khóa).
+B3. Chia mảng đã phân bố thành 2 phần. Quay lại B1.

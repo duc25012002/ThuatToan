@@ -1,0 +1,4 @@
+B1. Gán i = 0.
+B2. Tìm phần tử a[viTriNhoNhat] nhỏ nhất dãy hiện tại từ a[1] -> a[n-1].
+B3. Đổi chỗ a[viTriNhoNhat] và a[i].
+B4. Nếu i < n - 1 thì i = i + 1. Lặp lại B2. Ngược lại thì dừng.

@@ -1,0 +1,6 @@
+start là điểm bắt.
+end là điểm kết thúc.
+literation là lần lặp thứ i.
+current là điểm đang xét.
+duongdi là mảng lưu những thằng đã xét.
+duongduyet là đường đi ngắn nhất.

@@ -1,0 +1,13 @@
+Cách tiếp cận này cũng được gọi là phương pháp tham lam, tức là ta luôn chọn phép biến đổi tốt nhất tại mỗi bước, mà không quan tâm đến những phép biến đổi có thể hữu ích ở các bước sau.
+
+Một phép biến đổi được coi là tốt nhất nếu nó sẽ đưa xâu x đến gần với xâu y hơn những phép biến đổi khác.
+Cụ thể, ta sẽ tìm ra vị trí i đầu tiên mà xâu x và xâu y khác nhau. Sau đó, ta sẽ chọn một kí tự c của xâu x tại vị trí i và 
+thay thế nó bằng kí tự tương ứng của xâu y tại vị trí i. Sau đó, ta sẽ tiếp tục tìm cặp kí tự khác nhau tiếp theo và 
+thực hiện phép biến đổi tốt nhất tại mỗi bước cho đến khi xâu x trở thành xâu y.
+Cách tiếp cận này cũng được gọi là phương pháp tham lam, tức là ta luôn chọn phép biến đổi tốt nhất tại mỗi bước, 
+mà không quan tâm đến những phép biến đổi có thể hữu ích ở các bước sau.
+
+Một phép biến đổi được coi là tốt nhất nếu nó sẽ đưa xâu x đến gần với xâu y hơn những phép biến đổi khác. 
+Cụ thể, ta sẽ tìm ra vị trí i đầu tiên mà xâu x và xâu y khác nhau. 
+Sau đó, ta sẽ chọn một kí tự c của xâu x tại vị trí i và thay thế nó bằng kí tự tương ứng của xâu y tại vị trí i. 
+Sau đó, ta sẽ tiếp tục tìm cặp kí tự khác nhau tiếp theo và thực hiện phép biến đổi tốt nhất tại mỗi bước cho đến khi xâu x trở thành xâu y.

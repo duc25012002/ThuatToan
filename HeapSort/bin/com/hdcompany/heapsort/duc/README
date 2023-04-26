@@ -1,0 +1,9 @@
+B1. Xây dựng Last Parent Node: (n/2-1).
+B2. Lấy Last Parent Node so sánh với Left và Right. Nếu thằng nào lớn hơn thì đổi chỗ.
+B3. Các vị trí nằm ở trước Last Parent Node đều là Parent. So sánh Parent với 2 child. Nếu thằng nào lớn hơn thì swap.
+B4. So sánh tiếp về 1 nấc nữa. Thằng nào lớn hơn thì Swap.
+B5. Cầm index của 1 thằng vừa swap để so sánh tiếp với 2 thằng con.
+B6. Swap thằng cuối cùng và thằng đầu tiên(max). Bỏ thằng cuối cùng sau khi swap.
+B7. Lấy thằng đầu so sánh với 2 child, thằng nào lớn nhất lên làm childrent.
+B8. So sánh tiếp những thằng phía dưới.
+B9. Quay lại B6.
